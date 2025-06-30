@@ -1,0 +1,7 @@
+discord.py
+selenium
+opencv-python
+mss
+moviepy
+python-dotenv
+chromedriver-autoinstaller
