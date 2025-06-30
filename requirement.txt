@@ -1,4 +1,4 @@
-discord.py
+discord
 selenium
 opencv-python
 mss
